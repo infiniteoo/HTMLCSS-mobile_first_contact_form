@@ -22,4 +22,12 @@ ul {
   padding: 0;
 }
 
+.brand {
+  text-align: center;
+}
+
+.brand span {
+  color: #fff;
+}
+
 
